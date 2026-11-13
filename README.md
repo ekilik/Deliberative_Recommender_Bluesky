@@ -79,4 +79,4 @@ Tables (`.docx`) and figures are written to `tables_figures/`.
 
 ## License
 
-<!-- Add the license. -->
+The code is released under the MIT License. See [`LICENSE`](LICENSE).
