@@ -1,0 +1,12 @@
+# Python environment
+.venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Data are available upon request, not shared in the repository
+data/*.csv
